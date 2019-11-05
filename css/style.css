@@ -62,7 +62,7 @@
 .large-red-button {
     width: 100%;
 padding: 30px;
-border-color: blue;
+border-color: rgb(210, 210, 221);
 }
 
 .nomargin {
@@ -74,13 +74,14 @@ border-color: blue;
 
 
 #batteryButton:hover {
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .far-left-paragraph {
-    color: red;
+    color:purple;
     text-transform: uppercase;
     text-align: center;
+    font-size: 20px;
 }
 
 
